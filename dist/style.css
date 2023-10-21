@@ -608,6 +608,10 @@ video {
   height: 3.5rem;
 }
 
+.h-auto {
+  height: auto;
+}
+
 .w-12 {
   width: 3rem;
 }
